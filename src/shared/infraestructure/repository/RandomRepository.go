@@ -4,8 +4,8 @@ import (
 	"math/rand"
 	"time"
 
-	"git.tnschile.com/sistemas/tnsgo/raidark/src/shared/domain/model"
-	i "git.tnschile.com/sistemas/tnsgo/raidark/src/shared/domain/repository"
+	"git.tnschile.com/sistemas/tnsgo/raidark/src/domain/model"
+	i "git.tnschile.com/sistemas/tnsgo/raidark/src/domain/repository"
 	"gorm.io/gorm"
 )
 
